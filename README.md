@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Bjørn 👋
 
-<!--
-**BjoernGoettler/BjoernGoettler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a freelance DBA at [Udviklings- og forenklingsstyrelsen](https://ufst.dk/)
+- 🌱 I’m currently learning Software Development at [Erhvervsakademi Sydvest](https://easv.dk)
+- 👯 I’m looking to collaborate on what ever you think I would be able to help you with
+- 💬 Ask me about relational databases
+- 📫 How to reach me: If you can't find my e-mail somewhere, try and raise an [issue](https://github.com/BjoernGoettler/BjoernGoettler/issues)
+- ⚡ Fun fact: I have been told I was the first dane to obtain permanent dual citizenship (Denmark/Switzerland)
 
-Here are some ideas to get you started:
+## Freelance work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|Year|Place|Role|
+|----|-----|----|
+|2024|[Udviklings- og forenklingsstyrelsen](https://ufst.dk/)|DBA|
+|2023|[Novo Nordisk](https://novo.dk)|Backend Developer|
+|2022-2023|[Euronext Securities](https://www.euronext.com/en/post-trade/euronext-securities/copenhagen)|Database Enthusiast|
+|2022|[E-Boks](https://private.e-boks.com/danmark/da)|DBA|
+|2021|[Nationalt genomcenter](https://www.ngc.dk/)|Backend Developer|
+|2021|[Edora/Erhvervsstyrelsen](https://edora.dk/)|Backend Developer|
+|2020|[DXC](https://dxc.com/dk/da)|Data Warehouse developer|
+|2019|[Danske Bank](https://danskebank.dk)|PL/SQL developer|
