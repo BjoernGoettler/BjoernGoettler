@@ -19,3 +19,4 @@
 |2021|[Edora/Erhvervsstyrelsen](https://edora.dk/)|Backend Developer|
 |2020|[DXC](https://dxc.com/dk/da)|Data Warehouse developer|
 |2019|[Danske Bank](https://danskebank.dk)|PL/SQL developer|
+|2001|[Radio SLR](https://www.sn.dk/radioslr/)|Live'n'Uncut def music on airwaves developer|
