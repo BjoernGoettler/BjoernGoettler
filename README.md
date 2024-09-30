@@ -15,7 +15,7 @@ If you want to say hi, have a look at my [calendar](CALENDAR.md), and see if the
 |Year|Place|Role|
 |----|-----|----|
 |2024|[Udviklings- og forenklingsstyrelsen](https://ufst.dk/)|DBA|
-|2023|[Novo Nordisk](https://novo.dk)|Backend Developer|
+|2023|[Novo Nordisk](https://www.novonordisk.dk/)|Backend Developer|
 |2022-2023|[Euronext Securities](https://www.euronext.com/en/post-trade/euronext-securities/copenhagen)|Database Enthusiast|
 |2022|[E-Boks](https://private.e-boks.com/danmark/da)|DBA|
 |2021|[Nationalt genomcenter](https://www.ngc.dk/)|Backend Developer|
