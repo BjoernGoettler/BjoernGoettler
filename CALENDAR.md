@@ -1,9 +1,8 @@
 # Calendar
 
 ## I aim to attend
-- december 26th 2024 [38C3](https://events.ccc.de/en/2024/)
-- january 13th 2025 [Skiing in Livigno](https://www.carosello3000.com/en/)
-- january 31st 2025 [FOSDEM](https://fosdem.org/2025/)
+- march 14th 2025 [HAckaday Europe](https://hackaday.com/2024/12/10/2025-hackaday-europe-cfp-we-want-you/)
 
 ## I attended
+- december 26th 2024 [38C3](https://events.ccc.de/en/2024/)
 - april 13th 2024 [Hackaday Europe](https://hackaday.io/europe2024)
