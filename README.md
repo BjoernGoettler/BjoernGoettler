@@ -1,6 +1,6 @@
 ## Hi, I'm Bjørn 👋
 
-- 🔭 I’m currently working as a freelance DBA at [Udviklings- og forenklingsstyrelsen](https://ufst.dk/)
+- 🔭 I’m currently a fulltime student...👇
 - 🌱 I’m currently learning Software Development at [Erhvervsakademi Sydvest](https://easv.dk)
 - 👯 I’m looking to collaborate on what ever you think I would be able to help you with
 - 💬 Ask me about relational databases
