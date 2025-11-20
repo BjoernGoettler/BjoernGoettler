@@ -1,7 +1,6 @@
 ## Hi, I'm Bjørn 👋
 
-- 🔭 I’m currently a fulltime student...👇
-- 🌱 I’m currently learning Software Development at [Erhvervsakademi Sydvest](https://easv.dk)
+- 🔭 I’m a bachelor of Software Engineering
 - 👯 I’m looking to collaborate on what ever you think I would be able to help you with
 - 💬 Ask me about relational databases
 - 📫 How to reach me: If you can't find my e-mail somewhere, try and raise an [issue](https://github.com/BjoernGoettler/BjoernGoettler/issues)
@@ -14,6 +13,7 @@ If you want to say hi, have a look at my [calendar](CALENDAR.md), and see if the
 
 |Year|Place|Role|
 |----|-----|----|
+|2025|[Rigspolitiet](http://politi.dk)|Dataspecialist|
 |2024|[Udviklings- og forenklingsstyrelsen](https://ufst.dk/)|DBA|
 |2023|[Novo Nordisk](https://www.novonordisk.dk/)|Backend Developer|
 |2022-2023|[Euronext Securities](https://www.euronext.com/en/post-trade/euronext-securities/copenhagen)|Database Enthusiast|
